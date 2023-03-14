@@ -1,6 +1,6 @@
 {
-             "person_name": "Sergey",
-	     "person_age": 36,
+            "1." "person_name": "Sergey",
+	    "2." "person_age": 36,
 	     "person_devices": {
 		              "device_1" : "Xiaomi",
 				      "device_2" : "Xiaomi"
