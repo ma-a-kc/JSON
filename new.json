@@ -4,6 +4,10 @@
 	     "person_devices": {
 		              "device_1" : "Xiaomi",
 				      "device_2" : "Xiaomi"
+		"pets": {
+		              "cat" : "Snow"
+		"salary": {
+		              "1500" 		      			  
 	     }
 
 
